@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nandini 👋</h1>
 
 <p align="center">
-  CSE student learning frontend development, building projects in JAVA, JavaScript & Python,  
+  CSIT student learning frontend development, building projects in JAVA, JavaScript & Python,  
   and exploring GitHub workflows & open-source practices.
 </p>
 
