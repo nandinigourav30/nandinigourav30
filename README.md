@@ -25,7 +25,6 @@
 ---
 
 ## 📌 Featured Projects  
-*(Pin these repos on your profile)*
 
 - 🌐 **Portfolio Website** – HTML/CSS/JS  
 - 🛒 **E-Commerce Homepage** – Clean UI design  
