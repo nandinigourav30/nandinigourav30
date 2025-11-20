@@ -34,7 +34,8 @@
 ---
 
 ## 📫 Contact  
-- 📧 Email: *nandinigourav30@gmail.com*  
+- 📧 Email: *nandinigourav30@gmail.com*
+- Linkdin: https://www.linkedin.com/in/nandini-gourav/
 
 ---
 
