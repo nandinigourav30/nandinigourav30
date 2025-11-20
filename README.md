@@ -1,22 +1,45 @@
-# Hi, I’m Nandini 👋
+<h1 align="center">Hi, I'm Nandini 👋</h1>
 
-**Student | CSIT | Open Source contributor**  
-I build small web apps and desktop tools — I love clean code, readable docs, and contributing to open-source projects.
+<p align="center">
+  CSE student learning frontend development, building projects in JAVA, JavaScript & Python,  
+  and exploring GitHub workflows & open-source practices.
+</p>
 
 ---
 
-## 🔭 Current focus
-- Building interactive front-end projects (HTML/CSS/JS) and learning React
-- Contributing to open-source projects (documentation, bug fixes, beginner features)
-- Strengthening JAVA, Python and systems programming skills
+## 🌸 About Me
+- 🌱 Currently learning **HTML, CSS, JavaScript & React**
+- 🧠 Improving **Python programming** and core CS fundamentals  
+- 💻 Enjoy building **simple UI projects & CLI tools**  
+- 🔍 Curious about **open-source development workflows**  
+- 🎯 Goal: Build more polished projects & start contributing to open source
 
-## 🛠️ Tech & tools
-- **Languages:** JAVA, C++, MYSQL, JavaScript, Python, PHP (learning)
-- **Frontend:** HTML, CSS, basic React
-- **Tools:** Git, GitHub, VS Code, Linux
+---
 
+## 🛠️ Tech & Tools
 
-## 📫 Contact
-- Email: nandinigourav30@gmail.com
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,js,python,html,css,react,git,github,vscode,linux&theme=light" />
+</p>
+
+---
+
+## 📌 Featured Projects  
+*(Pin these repos on your profile)*
+
+- 🌐 **Portfolio Website** – HTML/CSS/JS  
+- 🛒 **E-Commerce Homepage** – Clean UI design  
+- 🎮 **Flood Escape** – Game using JS  
+- 📁 **Network File Sharing (C Project)** – Academic project
+
+---
+
+## 📫 Contact  
+- 📧 Email: *nandinigourav30@gmail.com*  
+
+---
+
+<p align="center">✨ Thanks for visiting my profile ✨</p>
+
 
 
